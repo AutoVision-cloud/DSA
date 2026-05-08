@@ -20,3 +20,4 @@ Solutions are organized by the [Grind 75](https://www.techinterviewhandbook.org/
 
 ### Linked List
 - [Merge Two Sorted Lists](g75/merge_two_sorted_lists.py)
+- [Remove Linked List Elements](g75/remove_linked_list_elements.py)
