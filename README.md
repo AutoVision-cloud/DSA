@@ -17,3 +17,6 @@ Solutions are organized by the [Grind 75](https://www.techinterviewhandbook.org/
 
 ### Stack
 - [Valid Parentheses](g75/valid_parentheses.py)
+
+### Linked List
+- [Merge Two Sorted Lists](g75/merge_two_sorted_lists.py)
