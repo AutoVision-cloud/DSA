@@ -3,7 +3,7 @@ from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # Space complexity: O(N), time complexity: O(N)
+        # Time complexity: O(N), space complexity: O(N)
         num_to_index = {}
 
         for i, num in enumerate(nums):
