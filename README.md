@@ -14,6 +14,7 @@ Solutions are organized by the [Grind 75](https://www.techinterviewhandbook.org/
 
 ### Arrays & Hashing
 - [Two Sum](g75/two_sum.py)
+- [Two Sum II](g75/two_sum_ii.py)
 
 ### Stack
 - [Valid Parentheses](g75/valid_parentheses.py)
