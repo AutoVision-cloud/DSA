@@ -21,6 +21,9 @@ Solutions are organized by the [Grind 75](https://www.techinterviewhandbook.org/
 - [Valid Parentheses](g75/valid_parentheses.py)
 - [Remove All Adjacent Duplicates](g75/remove_all_adjacent_duplicates.py)
 
+### Two Pointers
+- [Valid Palindrome](g75/valid_palindrome.py)
+
 ### Sliding Window
 - [Best Time to Buy and Sell Stock](g75/best_time_to_buy_and_sell_stock.py)
 
