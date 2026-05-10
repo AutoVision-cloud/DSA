@@ -21,6 +21,9 @@ Solutions are organized by the [Grind 75](https://www.techinterviewhandbook.org/
 - [Valid Parentheses](g75/valid_parentheses.py)
 - [Remove All Adjacent Duplicates](g75/remove_all_adjacent_duplicates.py)
 
+### Binary Search
+- [Binary Search](g75/binary_search.py)
+
 ### Dynamic Programming
 - [Maximum Subarray](g75/maximum_subarray.py)
 
